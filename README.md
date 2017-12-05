@@ -1,2 +1,5 @@
 # hello-world
-fighting
+hello
+i am fresh
+i am learning
+i am learning
